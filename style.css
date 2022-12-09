@@ -1,7 +1,7 @@
 .logo {
   width: 76px;
   height: 20px;
-  font-family: 'poppins', Arial, Helvetica, sans-serif;
+  font-family: 'poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -23,7 +23,7 @@
 }
 
 #bttn {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -67,7 +67,7 @@ a { text-decoration: none; }
   margin-top: 10px;
   margin-left: -1px;
   width: 55%;
-  font-family: 'poppins', Arial, Helvetica, sans-serif;
+  font-family: 'poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -86,7 +86,7 @@ a { text-decoration: none; }
 .head-section {
   width: 327px;
   height: 146px;
-  font-family: 'poppins', Arial, Helvetica, sans-serif;
+  font-family: 'poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -100,7 +100,7 @@ a { text-decoration: none; }
 .main-section {
   align-items: center;
   padding-left: 10px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', Arial, sans-serif;
   font-style: normal;
   padding-top: 10%;
   padding-bottom: 10%;
@@ -139,8 +139,8 @@ a { text-decoration: none; }
 
 .spa {
   width: 295px;
-  height: 36px;
-  font-family: 'Poppins', sans-serif;
+  height: 80px;
+  font-family: 'Poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -149,7 +149,6 @@ a { text-decoration: none; }
   flex: none;
   order: 0;
   flex-grow: 0;
-  margin-bottom: 24px;
 }
 
 .section6 {
@@ -165,7 +164,7 @@ a { text-decoration: none; }
 }
 
 .la {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -214,7 +213,7 @@ a { text-decoration: none; }
   height: 66.72px;
   background: #f7f7f9;
   border-radius: 8px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -230,7 +229,7 @@ a { text-decoration: none; }
 .lets {
   width: 117px;
   height: 24px;
-  font-family: 'poppins', Arial, Helvetica, sans-serif;
+  font-family: 'poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -271,7 +270,7 @@ a { text-decoration: none; }
 }
 
 .lists {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
