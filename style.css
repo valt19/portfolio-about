@@ -36,6 +36,7 @@
   background: #fff;
   border: 1px solid #396df2;
   border-radius: 12px;
+  margin: 15px 0;
 }
 
 #bttn:active {
@@ -62,9 +63,9 @@
 a { text-decoration: none; }
 
 .text {
-  margin: 0 24px;
-  width: 327px;
-  height: 150px;
+  margin-top: 10px;
+  margin-left: -1px;
+  width: 55%;
   font-family: 'poppins', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -76,8 +77,9 @@ a { text-decoration: none; }
   order: 0;
   flex-grow: 0;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   list-style: none;
+  padding: 0;
 }
 
 .head-section {
@@ -120,17 +122,14 @@ a { text-decoration: none; }
   padding: 10px;
   display: flex;
   flex-direction: column;
-  align-items: center;
-}
-
-.card_item * {
-  align-self: center;
+  align-items: flex-start;
+  margin-bottom: 24px;
 }
 
 .snap {
   width: 295px;
   height: 220px;
-  background: url(image_processing20200716-21735-f07s4k.png);
+  background: url(images/Snapshoot_Portfolio.png);
   border-radius: 8px;
   flex: none;
   order: 0;
@@ -179,6 +178,11 @@ a { text-decoration: none; }
   align-items: center;
   justify-content: space-between;
   width: 303px;
+  margin-bottom: 50px;
+}
+
+.dropdown {
+  width: 20px;
 }
 
 .background-shapes {
@@ -196,6 +200,12 @@ a { text-decoration: none; }
   line-height: 52px;
 }
 
+.social {
+  justify-content: space-between;
+  display: flex;
+  width: 50%;
+}
+
 .li {
   display: flex;
   width: 303px;
@@ -209,6 +219,10 @@ a { text-decoration: none; }
   align-items: center;
   color: #253858;
   padding: 10px;
+}
+
+.li img {
+  margin-right: 10px;
 }
 
 .lets {
@@ -242,7 +256,7 @@ a { text-decoration: none; }
   height: 20px;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
   align-self: inherit;
 }
 
