@@ -54,6 +54,7 @@
   display: flex;
   justify-content: stretch;
   align-items: flex-end;
+  margin-bottom: 20px;
 }
 
 .canopy {
@@ -148,6 +149,7 @@ a { text-decoration: none; }
   flex: none;
   order: 0;
   flex-grow: 0;
+  margin-bottom: 24px;
 }
 
 .section6 {
