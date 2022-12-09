@@ -52,15 +52,54 @@
 .list {
   list-style: none;
   display: flex;
-  justify-content: stretch;
+  justify-content: space-between;
   align-items: flex-end;
   margin-bottom: 20px;
+  padding-right: 20px;
 }
 
 .canopy {
+  width: 55px;
+  height: 16px;
+  font-family: 'Poppins', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #344563;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
   list-style: none;
+  justify-content: space-between;
 }
 
+.counter {
+  width: 8px;
+  height: 8px;
+  background: #c1c7d0;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  justify-content: space-between;
+  padding-right: 5px;
+}
+
+.bac {
+  width: 88px;
+  height: 16px;
+  font-family: 'Poppins', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  justify-content: space-between;
+  padding: 0;
+}
 a { text-decoration: none; }
 
 .text {
@@ -139,7 +178,7 @@ a { text-decoration: none; }
 
 .spa {
   width: 295px;
-  height: 80px;
+  height: 36px;
   font-family: 'Poppins', Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -149,6 +188,7 @@ a { text-decoration: none; }
   flex: none;
   order: 0;
   flex-grow: 0;
+  margin-bottom: 20px;
 }
 
 .section6 {
@@ -161,6 +201,7 @@ a { text-decoration: none; }
   padding: 16px;
   border: 1px solid rgb(241, 234, 234);
   border-radius: 10px;
+  font-family: 'Poppins', Arial, sans-serif;
 }
 
 .la {
